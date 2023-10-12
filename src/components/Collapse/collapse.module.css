@@ -1,0 +1,24 @@
+.container {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+}
+.buttonCollapse {
+  background: none;
+  border: none;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10;
+  padding-top: 10;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 1rem;
+  font-family: monospace;
+  text-align: center;
+  color: #fff;
+}

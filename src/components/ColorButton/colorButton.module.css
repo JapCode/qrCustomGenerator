@@ -1,0 +1,10 @@
+.colorButton {
+  width: fit-content;
+  padding: 2px 5px;
+  border: 1px solid #737373;
+  color: #737373;
+  font-size: 15px;
+  font-family: monospace;
+  border-radius: 4px;
+  cursor: pointer;
+}
